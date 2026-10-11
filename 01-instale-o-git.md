@@ -21,7 +21,7 @@
 
 **Quando usar / observação:**
 
-Quando preferir uma interface visual simples e rápida.
+Quando precisar de uma interface visual mais simples, de acordo com o que deseja.
 
 ---
 
@@ -35,7 +35,7 @@ Quando preferir uma interface visual simples e rápida.
 
 **Quando usar / observação:**
 
-Quando preferir uma interface visual simples e rápida.
+Quando precisar de uma interface visual mais simples, de acordo com o que deseja.
 
 ---
 
