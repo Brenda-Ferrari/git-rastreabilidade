@@ -19,7 +19,7 @@ git branch
 
 **O que faz:**
 
-Lista todas as branches locais do projeto e indica em qual você está atualmente.
+Lista todas as branches locais do projeto e indica em qual você está no momento.
 
 **Quando usar / observação:**
 
