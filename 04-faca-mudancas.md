@@ -19,7 +19,7 @@ git status
 
 **O que faz:**
 
-Mostra o estado atual das suas alterações.
+Mostra o estado atual das alterações feitas.
 
 **Quando usar / observação:**
 
