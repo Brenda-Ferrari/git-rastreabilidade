@@ -23,7 +23,7 @@ Remove o arquivo do controle de versão do Git e também o deleta da sua pasta l
 
 **Quando usar / observação:**
 
-Quando você quiser apagar um arquivo permanentemente do projeto e garantir que essa remoção seja registrada no próximo commit.
+Quando você quiser apagar um arquivo permanentemente do projeto e garantir que essa remoção seja registrada no próximo commit para ter um maior controle.
 
 ---
 
