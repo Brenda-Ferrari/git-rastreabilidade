@@ -39,7 +39,7 @@ Exibe o histórico completo de commits de um arquivo específico.
 
 **Quando usar / observação:**
 
-Quando você quiser investigar a história de um arquivo específico e não quiser perder o rastro do histórico caso ele tenha mudado de nome.
+Quando você quiser investigar o que há dentro de um arquivo específico e não quiser perder o rastro do histórico caso ele tenha mudado de nome.
 
 ---
 
@@ -51,7 +51,7 @@ git diff [primeiro-branch]...[segundo-branch]
 
 **O que faz:**
 
-Mostra as alterações exatas no código que estão no segundo-branch desde o ponto em que ele se separou do primeiro-branch.
+Mostra as alterações exatas no código que estão no segundo-branch a partir do ponto em que ele se separa do primeiro-branch.
 
 **Quando usar / observação:**
 
