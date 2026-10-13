@@ -23,7 +23,7 @@ Remove o arquivo do controle de versão do Git e também o deleta da sua pasta l
 
 **Quando usar / observação:**
 
-Quando você quiser apagar um arquivo permanentemente do projeto e garantir que essa remoção seja registrada no próximo commit para ter um maior controle.
+Quando você quiser apagar um arquivo de forma permanente do projeto e garantir que essa remoção seja registrada no próximo commit para ter maior controle.
 
 ---
 
@@ -39,7 +39,7 @@ Remove o arquivo do controle de versão do Git, mas mantém o arquivo intacto no
 
 **Quando usar / observação:**
 
-Quando você adicionou ao Git um arquivo que não deveria ser monitorado e agora quer parar de rastreá-lo no Git sem perdê-lo da sua máquina.
+Quando adicionar um arquivo ao Git que não deveria ser monitorado e agora quer parar de rastreá-lo no Git sem perdê-lo da sua máquina.
 
 ---
 
@@ -51,7 +51,7 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 **O que faz:**
 
-Renomeia ou move um arquivo de pasta e já deixa essa alteração preparada para o próximo commit.
+Renomeia ou move um arquivo de pasta, deixando essa alteração preparada para o próximo commit.
 
 **Quando usar / observação:**
 
