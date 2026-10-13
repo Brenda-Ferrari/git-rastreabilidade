@@ -19,7 +19,7 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-Não cria um repositório Git do zero em uma pasta local que ainda não é monitorada.
+Cria um repositório Git do zero em uma pasta local que ainda não é monitorada.
 
 **Quando usar / observação:**
 
