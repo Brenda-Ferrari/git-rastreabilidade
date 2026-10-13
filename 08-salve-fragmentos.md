@@ -19,11 +19,11 @@ git stash
 
 **O que faz:**
 
-Salva temporariamente as alterações locais não salvas em uma "gaveta" e limpa sua pasta de trabalho, voltando o código ao estado do último commit.
+Salva temporariamente as alterações locais não salvas e limpa sua pasta de trabalho, voltando e deixando o código ao estado do último commit.
 
 **Quando usar / observação:**
 
-Quando você estiver no meio de um trabalho e precisar mudar de branch para corrigir um bug urgente.
+Quando você estiver no meio de um trabalho e precisar mudar de branch para corrigir algo urgente.
 
 ---
 
