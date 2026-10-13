@@ -19,11 +19,11 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-Configura e determina o nome do usuário.
+Comando utilizado para determinar o nome do usuário.
 
 **Quando usar / observação:**
 
-Quando você quer definir o nome de um usuário para utiliza-lo.
+Quando você desejar definir ou redefinir o nome de um usuário para utiliza-lo.
 
 ---
 
@@ -35,7 +35,7 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-Configura e determina o e-mail do usuário.
+Comando utilizado para configurar e determinar o e-mail do usuário.
 
 **Quando usar / observação:**
 
