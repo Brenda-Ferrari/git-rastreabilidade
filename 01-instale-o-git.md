@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-É a interface visual, usado para rotinas simples (commit, push, criar branches).
+É a interface visual, usada para rotinas simples (commit, push, criar branches).
 
 **Quando usar / observação:**
 
-Quando precisar de uma interface visual mais simples, de acordo com o que deseja.
+Quando precisar de uma interface visual mais simples, de acordo com o que desejar.
 
 ---
 
@@ -31,11 +31,11 @@ Quando precisar de uma interface visual mais simples, de acordo com o que deseja
 
 **Para que serve, e quando eu usaria:**
 
-É a interface visual, usado para rotinas simples (commit, push, criar branches).
+É a interface visual, usada para rotinas simples (commit, push, criar branches).
 
 **Quando usar / observação:**
 
-Quando precisar de uma interface visual mais simples, de acordo com o que deseja.
+Quando precisar de uma interface visual mais simples, de acordo com o que desejar.
 
 ---
 
@@ -45,7 +45,7 @@ Quando precisar de uma interface visual mais simples, de acordo com o que deseja
 
 **Para que serve, e quando eu usaria:**
 
-Controle sobre o código, executar comandos avançados e automatizar processos pelo terminal.
+Controlar o código, executar comandos avançados e automatizar processos pelo terminal.
 
 **Quando usar / observação:**
 
