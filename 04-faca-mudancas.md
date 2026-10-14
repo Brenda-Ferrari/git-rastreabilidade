@@ -23,7 +23,7 @@ Mostra o estado atual das alterações feitas.
 
 **Quando usar / observação:**
 
-O tempo todo, principalmente antes de adicionar ou commitar arquivos.
+Sempre que desejar, principalmente antes de adicionar ou commitar arquivos.
 
 ---
 
@@ -35,7 +35,7 @@ git diff
 
 **O que faz:**
 
-Mostra linha por linha do que alterou nos arquivos que ainda não foram preparados para commit.
+Mostra linha por linha do que foi alterado nos arquivos, mas ainda não foi preparado para commit.
 
 **Quando usar / observação:**
 
@@ -83,7 +83,7 @@ git reset [arquivo]
 
 **O que faz:**
 
-Remove um arquivo da área de preparação, sem apagar o código que você escreveu.
+Remove um arquivo da área de preparação, sem apagar o código escrito.
 
 **Quando usar / observação:**
 

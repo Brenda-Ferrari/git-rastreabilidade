@@ -23,7 +23,7 @@ Baixa todas as atualizações, histórico e branches do repositório remoto para
 
 **Quando usar / observação:**
 
-Quando você quiser ver o que os seus colegas enviaram para o GitHub sem o risco de alterar ou bagunçar o código que você está escrevendo no momento.
+Quando você desejar ver o que os seus colegas enviaram para o GitHub sem o risco de alterar ou bagunçar o código que você está escrevendo no momento.
 
 ---
 
@@ -35,7 +35,7 @@ git merge [nome-remoto]/[branch]
 
 **O que faz:**
 
-Junta as alterações de uma branch remota que você baixou previamente na branch local em que você está posicionado.
+Junta as alterações de uma branch remota que você baixou previamente na branch local em que você se encontra.
 
 **Quando usar / observação:**
 

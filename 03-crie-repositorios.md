@@ -35,11 +35,11 @@ git clone [url]
 
 **O que faz:**
 
-Baixa a cópia completa de um repositório que já existe para a sua máquina.
+Comando utilizado para copiar um repositório que já existe para a sua máquina.
 
 **Quando usar / observação:**
 
-Para trabalhar em um projeto que já existe no GitHub.
+Quando desejar acessar um projeto que já existe no GitHub.
 
 ---
 

@@ -21,7 +21,7 @@ temp-*
 
 **O que este arquivo faz:**
 
-É um arquivo de texto especial onde você lista regras de quais arquivos, pastas ou extensões o Git deve ignorar completamente.
+É um arquivo de texto especial onde você lista quais arquivos, pastas ou extensões o Git deve ignorar completamente.
 
 **Quando usar / observação:**
 
@@ -37,7 +37,7 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-Lista no terminal todos os arquivos da sua pasta de trabalho que estão sendo ignorados pelo Git com base nas regras definidas no seu arquivo.
+Lista no terminal todos os arquivos da sua pasta de trabalho que estão sendo ignorados pelo Git com base no que foi definido no seu arquivo.
 
 **Quando usar / observação:**
 

@@ -19,7 +19,7 @@ git branch
 
 **O que faz:**
 
-Lista todas as branches locais do projeto e indica em qual você está no momento.
+Lista todas as branches locais do projeto e indica em qual delas você está no momento.
 
 **Quando usar / observação:**
 
@@ -35,7 +35,7 @@ git branch [nome-do-branch]
 
 **O que faz:**
 
-Cria uma nova branch com o nome especificado, apontando para o commit onde você está no momento, mas sem mudar para ela.
+Cria uma nova branch com o nome desejado, apontando para o commit onde você está no momento, mas sem mudar para ela.
 
 **Quando usar / observação:**
 
@@ -51,7 +51,7 @@ git switch -c [nome-do-branch]
 
 **O que faz:**
 
-Cria a nova branch e muda para ela no mesmo instante.
+Cria uma nova branch e muda para ela ao mesmo tempo.
 
 **Quando usar / observação:**
 
