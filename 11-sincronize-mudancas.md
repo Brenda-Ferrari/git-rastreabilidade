@@ -35,7 +35,7 @@ git merge [nome-remoto]/[branch]
 
 **O que faz:**
 
-Junta as alterações de uma branch remota que você baixou previamente na branch local aonde você se encontra.
+Junta as alterações de uma branch remota que você baixou previamente na branch local em que você se encontra.
 
 **Quando usar / observação:**
 
