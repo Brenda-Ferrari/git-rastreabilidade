@@ -35,7 +35,7 @@ git reset --hard [commit]
 
 **O que faz:**
 
-Apaga definitivamente todas as alterações e commits feitos após o commit especificado, voltando o código e a pasta de trabalho exatamente para o estado do commit indicado.
+Apaga definitivamente todas as alterações e commits feitos após o commit especificado, voltando o código e a pasta de trabalho exatamente para o estado dele.
 
 **Quando usar / observação:**
 
